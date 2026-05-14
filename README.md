@@ -23,8 +23,8 @@ Real time drowsiness detection using computer vision and deep learning.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/Hanafy10/Eye-State-and-Yawn-Drowsiness-Detection.git
+cd Eye-State-and-Yawn-Drowsiness-Detection
 ```
 
 Install dependencies:
